@@ -1,0 +1,9 @@
+c:\users\mka\documents\visual studio 2012\Projects\ClassDenemeUygulama\ClassDenemeUygulama\bin\Debug\ClassDenemeUygulama.exe.config
+c:\users\mka\documents\visual studio 2012\Projects\ClassDenemeUygulama\ClassDenemeUygulama\obj\Debug\ClassDenemeUygulama.csprojResolveAssemblyReference.cache
+c:\users\mka\documents\visual studio 2012\Projects\ClassDenemeUygulama\ClassDenemeUygulama\obj\Debug\ClassDenemeUygulama.Form1.resources
+c:\users\mka\documents\visual studio 2012\Projects\ClassDenemeUygulama\ClassDenemeUygulama\obj\Debug\ClassDenemeUygulama.Properties.Resources.resources
+c:\users\mka\documents\visual studio 2012\Projects\ClassDenemeUygulama\ClassDenemeUygulama\obj\Debug\ClassDenemeUygulama.csproj.GenerateResource.Cache
+c:\users\mka\documents\visual studio 2012\Projects\ClassDenemeUygulama\ClassDenemeUygulama\bin\Debug\ClassDenemeUygulama.exe
+c:\users\mka\documents\visual studio 2012\Projects\ClassDenemeUygulama\ClassDenemeUygulama\bin\Debug\ClassDenemeUygulama.pdb
+c:\users\mka\documents\visual studio 2012\Projects\ClassDenemeUygulama\ClassDenemeUygulama\obj\Debug\ClassDenemeUygulama.exe
+c:\users\mka\documents\visual studio 2012\Projects\ClassDenemeUygulama\ClassDenemeUygulama\obj\Debug\ClassDenemeUygulama.pdb
